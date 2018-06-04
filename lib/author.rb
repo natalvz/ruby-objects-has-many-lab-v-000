@@ -26,7 +26,6 @@ class Author
     @@all_posts.count 
   end
 
-    
   
 
     
