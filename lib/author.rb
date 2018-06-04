@@ -20,6 +20,9 @@ class Author
     @@all << post
   end
   
+  def post_count
+    
+  
 
     
 end
